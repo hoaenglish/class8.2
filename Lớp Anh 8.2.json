@@ -1,8 +1,8 @@
 {
-  "title": "H?c ph? L?p Anh 8.2 (08/2025)",
+  "title": "Học phí Lớp Anh 8.2 (08/2025)",
   "students": [
     {
-      "name": "L?m",
+      "name": "Lâm",
       "class": "8A2",
       "fee": 0,
       "info": "8A2Lam",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "name": "Ho?ng",
+      "name": "Hoàng",
       "class": "8A2",
       "fee": 0,
       "info": "8A2Hoang",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "name": "Thu? D??ng",
+      "name": "Thuỳ Dương",
       "class": "8A2",
       "fee": 0,
       "info": "8A2ThuyDuong",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "name": "??c Giang",
+      "name": "Đức Giang",
       "class": "8A2",
       "fee": 0,
       "info": "8A2DucGiang",
@@ -62,7 +62,7 @@
       }
     },
     {
-      "name": "Huy?n Linh",
+      "name": "Huyền Linh",
       "class": "8A5",
       "fee": 0,
       "info": "8A5HuyenLinh",
@@ -74,7 +74,7 @@
       }
     },
     {
-      "name": "Qu?nh Anh",
+      "name": "Quỳnh Anh",
       "class": "8A5",
       "fee": 0,
       "info": "8A5QuynhAnh",
@@ -86,7 +86,7 @@
       }
     },
     {
-      "name": "Ph?c",
+      "name": "Phúc",
       "class": "8A5",
       "fee": 0,
       "info": "8A5Phuc",
@@ -98,7 +98,7 @@
       }
     },
     {
-      "name": "Nguy?n Huy?n",
+      "name": "Nguyễn Huyền",
       "class": "8A5",
       "fee": 0,
       "info": "8A5NguyenHuyen",
@@ -110,7 +110,7 @@
       }
     },
     {
-      "name": "Kh?nh Huy?n",
+      "name": "Khánh Huyền",
       "class": "8A5",
       "fee": 0,
       "info": "8A5KhanhHuyen",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "name": "H?",
+      "name": "Hà",
       "class": "8A5",
       "fee": 0,
       "info": "8A5Ha",
@@ -134,7 +134,7 @@
       }
     },
     {
-      "name": "H?ng Phong",
+      "name": "Hùng Phong",
       "class": "8A5",
       "fee": 0,
       "info": "8A5HungPhong",
@@ -146,7 +146,7 @@
       }
     },
     {
-      "name": "Qu?n B?o",
+      "name": "Quân Bảo",
       "class": "8A5",
       "fee": 0,
       "info": "8A5QuanBao",
@@ -158,7 +158,7 @@
       }
     },
     {
-      "name": "V? Ki?n",
+      "name": "Vũ Kiên",
       "class": "8A5",
       "fee": 0,
       "info": "8A5VuKien",
@@ -170,7 +170,7 @@
       }
     },
     {
-      "name": "H? Linh",
+      "name": "Hà Linh",
       "class": "8A5",
       "fee": 0,
       "info": "8A5HaLinh",
@@ -182,7 +182,7 @@
       }
     },
     {
-      "name": "H? Trang",
+      "name": "Hà Trang",
       "class": "8A5",
       "fee": 0,
       "info": "8A5HaTrang",
@@ -218,7 +218,7 @@
       }
     },
     {
-      "name": "Kh?nh Ph??ng",
+      "name": "Khánh Phương",
       "class": "8A5",
       "fee": 0,
       "info": "8A5KhanhPhuong",
@@ -230,7 +230,7 @@
       }
     },
     {
-      "name": "Th?o",
+      "name": "Thảo",
       "class": "8A5",
       "fee": 0,
       "info": "8A5Thao",
@@ -242,7 +242,7 @@
       }
     },
     {
-      "name": "Nh?t Ly",
+      "name": "Nhật Ly",
       "class": "8A5",
       "fee": 0,
       "info": "8A5NhatLy",
@@ -254,7 +254,7 @@
       }
     },
     {
-      "name": "Lan H??ng",
+      "name": "Lan Hương",
       "class": "8A5",
       "fee": 0,
       "info": "8A5LanHuong",
@@ -266,7 +266,7 @@
       }
     },
     {
-      "name": "Kh?nh Duy",
+      "name": "Khánh Duy",
       "class": "8A5",
       "fee": 0,
       "info": "8A5KhanhDuy",
@@ -278,7 +278,7 @@
       }
     },
     {
-      "name": "Kh??ng",
+      "name": "Khương",
       "class": "8A5",
       "fee": 0,
       "info": "8A5Khuong",
@@ -290,7 +290,7 @@
       }
     },
     {
-      "name": "Tr? My",
+      "name": "Trà My",
       "class": "8A5",
       "fee": 0,
       "info": "8A5TraMy",
@@ -302,7 +302,7 @@
       }
     },
     {
-      "name": "H?i Y?n",
+      "name": "Hải Yến",
       "class": "8A5",
       "fee": 0,
       "info": "8A5HaiYen",
@@ -314,7 +314,7 @@
       }
     },
     {
-      "name": "Ti?n ??t",
+      "name": "Tiến Đạt",
       "class": "8A6",
       "fee": 0,
       "info": "8A6TienDat",
@@ -338,7 +338,7 @@
       }
     },
     {
-      "name": "Vi?t An",
+      "name": "Việt An",
       "class": "8A6",
       "fee": 0,
       "info": "8A6VietAn",
@@ -350,7 +350,7 @@
       }
     },
     {
-      "name": "Ng?c Vy",
+      "name": "Ngọc Vy",
       "class": "8A6",
       "fee": 0,
       "info": "8A6NgocVy",
@@ -362,7 +362,7 @@
       }
     },
     {
-      "name": "B?o Ng?c",
+      "name": "Bảo Ngọc",
       "class": "8A6",
       "fee": 0,
       "info": "8A6BaoNgoc",
@@ -374,7 +374,7 @@
       }
     },
     {
-      "name": "Tu?n Phong",
+      "name": "Tuấn Phong",
       "class": "8A8",
       "fee": 0,
       "info": "8A8TuanPhong",
@@ -386,7 +386,7 @@
       }
     },
     {
-      "name": "Hi?n",
+      "name": "Hiển",
       "class": "8A9",
       "fee": 0,
       "info": "8A9Hien",
@@ -398,7 +398,7 @@
       }
     },
     {
-      "name": "??ng",
+      "name": "Đăng",
       "class": "8A1",
       "fee": 0,
       "info": "8A1Dang",
