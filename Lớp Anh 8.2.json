@@ -184,11 +184,11 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=120000&addInfo=8A5HaiYen&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Tiến Đạt",
+      "name": "Đức Huy",
       "class": "8A6",
       "fee": 180000,
-      "info": "8A6TienDat",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=8A6TienDat&accountName=CHU%20DUC%20THANH"
+      "info": "8A6DucHuy",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=8A6DucHuy&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Minh Long",
