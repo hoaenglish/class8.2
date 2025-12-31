@@ -1,4 +1,243 @@
 {
   "title": "Học phí Lớp Anh 8.2 (11/2025)",
-  "students": []
+  "students": [
+    {
+      "name": "Lâm",
+      "class": "8A2",
+      "fee": 180000,
+      "info": "8A2Lam",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=8A2Lam&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Hoàng",
+      "class": "8A2",
+      "fee": 300000,
+      "info": "8A2Hoang",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=300000&addInfo=8A2Hoang&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Thuỳ Dương",
+      "class": "8A2",
+      "fee": 360000,
+      "info": "8A2ThuyDuong",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A2ThuyDuong&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Đức Giang",
+      "class": "8A2",
+      "fee": 180000,
+      "info": "8A2DucGiang",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=8A2DucGiang&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Huy",
+      "class": "8A4",
+      "fee": 240000,
+      "info": "8A4Huy",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=8A4Huy&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Huyền Linh",
+      "class": "8A5",
+      "fee": 360000,
+      "info": "8A5HuyenLinh",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5HuyenLinh&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Quỳnh Anh",
+      "class": "8A5",
+      "fee": 300000,
+      "info": "8A5QuynhAnh",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=300000&addInfo=8A5QuynhAnh&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Phúc",
+      "class": "8A5",
+      "fee": 420000,
+      "info": "8A5Phuc",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A5Phuc&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Nguyễn Huyền",
+      "class": "8A5",
+      "fee": 420000,
+      "info": "8A5NguyenHuyen",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A5NguyenHuyen&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Khánh Huyền",
+      "class": "8A5",
+      "fee": 360000,
+      "info": "8A5KhanhHuyen",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5KhanhHuyen&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Hà",
+      "class": "8A5",
+      "fee": 300000,
+      "info": "8A5Ha",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=300000&addInfo=8A5Ha&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Hùng Phong",
+      "class": "8A5",
+      "fee": 240000,
+      "info": "8A5HungPhong",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=8A5HungPhong&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Quân Bảo",
+      "class": "8A5",
+      "fee": 420000,
+      "info": "8A5QuanBao",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A5QuanBao&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Vũ Kiên",
+      "class": "8A5",
+      "fee": 360000,
+      "info": "8A5VuKien",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5VuKien&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Hà Linh",
+      "class": "8A5",
+      "fee": 300000,
+      "info": "8A5HaLinh",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=300000&addInfo=8A5HaLinh&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Hà Trang",
+      "class": "8A5",
+      "fee": 420000,
+      "info": "8A5HaTrang",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A5HaTrang&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Mai Hoa",
+      "class": "8A5",
+      "fee": 300000,
+      "info": "8A5MaiHoa",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=300000&addInfo=8A5MaiHoa&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Thu Trang",
+      "class": "8A5",
+      "fee": 360000,
+      "info": "8A5ThuTrang",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5ThuTrang&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Khánh Phương",
+      "class": "8A5",
+      "fee": 240000,
+      "info": "8A5KhanhPhuong",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=8A5KhanhPhuong&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Thảo",
+      "class": "8A5",
+      "fee": 420000,
+      "info": "8A5Thao",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A5Thao&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Nhật Ly",
+      "class": "8A5",
+      "fee": 360000,
+      "info": "8A5NhatLy",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5NhatLy&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Lan Hương",
+      "class": "8A5",
+      "fee": 60000,
+      "info": "8A5LanHuong",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=60000&addInfo=8A5LanHuong&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Khánh Duy",
+      "class": "8A5",
+      "fee": 420000,
+      "info": "8A5KhanhDuy",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A5KhanhDuy&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Khương",
+      "class": "8A5",
+      "fee": 360000,
+      "info": "8A5Khuong",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5Khuong&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Trà My",
+      "class": "8A5",
+      "fee": 240000,
+      "info": "8A5TraMy",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=8A5TraMy&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Hải Yến",
+      "class": "8A5",
+      "fee": 360000,
+      "info": "8A5HaiYen",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5HaiYen&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Đức Huy",
+      "class": "8A5",
+      "fee": 420000,
+      "info": "8A5DucHuy",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=8A5DucHuy&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Phương Anh",
+      "class": "8A5",
+      "fee": 300000,
+      "info": "8A5PhuongAnh",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=300000&addInfo=8A5PhuongAnh&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Gia Bảo",
+      "class": "8A5",
+      "fee": 360000,
+      "info": "8A5GiaBao",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5GiaBao&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Minh Long",
+      "class": "8A6",
+      "fee": 180000,
+      "info": "8A6MinhLong",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=8A6MinhLong&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Việt An",
+      "class": "8A6",
+      "fee": 180000,
+      "info": "8A6VietAn",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=8A6VietAn&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Bảo Ngọc",
+      "class": "8A6",
+      "fee": 180000,
+      "info": "8A6BaoNgoc",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=8A6BaoNgoc&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Tuấn Phong",
+      "class": "8A8",
+      "fee": 240000,
+      "info": "8A8TuanPhong",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=8A8TuanPhong&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Hiển",
+      "class": "8A9",
+      "fee": 360000,
+      "info": "8A9Hien",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A9Hien&accountName=CHU%20DUC%20THANH"
+    }
+  ]
 }
