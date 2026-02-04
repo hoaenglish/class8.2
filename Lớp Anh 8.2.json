@@ -212,6 +212,13 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5HoangHuy&accountName=CHU%20DUC%20THANH"
     },
     {
+      "name": "Quang Huy",
+      "class": "8A5",
+      "fee": 360000,
+      "info": "8A5QuangHuy",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=8A5QuangHuy&accountName=CHU%20DUC%20THANH"
+    },
+    {
       "name": "Minh Long",
       "class": "8A6",
       "fee": 360000,
